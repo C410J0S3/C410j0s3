@@ -49,7 +49,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
   <a href = "mailto:cj.devs@outlook.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/caio-jose-44a8b9237/" target="_blank">
+  <a href="https://www.linkedin.com/in/caio-oliveira-44a8b9237/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://wa.me/5521969921216" target="_blank">
